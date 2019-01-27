@@ -1,0 +1,5 @@
+{
+  "Configuration": {
+    "ConnectionString": "Server={devservername};Database={dbname};User ID={devuserid};Password={devpassword};"
+  }
+}

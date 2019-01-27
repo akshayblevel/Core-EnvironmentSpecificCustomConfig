@@ -1,0 +1,11 @@
+E:\Akki\POC\Final\EnvironmentSpecificCustomConfig\EnvironmentSpecificCustomConfig\bin\Debug\netcoreapp2.0\EnvironmentSpecificCustomConfig.deps.json
+E:\Akki\POC\Final\EnvironmentSpecificCustomConfig\EnvironmentSpecificCustomConfig\bin\Debug\netcoreapp2.0\EnvironmentSpecificCustomConfig.runtimeconfig.json
+E:\Akki\POC\Final\EnvironmentSpecificCustomConfig\EnvironmentSpecificCustomConfig\bin\Debug\netcoreapp2.0\EnvironmentSpecificCustomConfig.runtimeconfig.dev.json
+E:\Akki\POC\Final\EnvironmentSpecificCustomConfig\EnvironmentSpecificCustomConfig\bin\Debug\netcoreapp2.0\EnvironmentSpecificCustomConfig.dll
+E:\Akki\POC\Final\EnvironmentSpecificCustomConfig\EnvironmentSpecificCustomConfig\bin\Debug\netcoreapp2.0\EnvironmentSpecificCustomConfig.pdb
+E:\Akki\POC\Final\EnvironmentSpecificCustomConfig\EnvironmentSpecificCustomConfig\obj\Debug\netcoreapp2.0\EnvironmentSpecificCustomConfig.csprojAssemblyReference.cache
+E:\Akki\POC\Final\EnvironmentSpecificCustomConfig\EnvironmentSpecificCustomConfig\obj\Debug\netcoreapp2.0\EnvironmentSpecificCustomConfig.csproj.CoreCompileInputs.cache
+E:\Akki\POC\Final\EnvironmentSpecificCustomConfig\EnvironmentSpecificCustomConfig\obj\Debug\netcoreapp2.0\EnvironmentSpecificCustomConfig.AssemblyInfoInputs.cache
+E:\Akki\POC\Final\EnvironmentSpecificCustomConfig\EnvironmentSpecificCustomConfig\obj\Debug\netcoreapp2.0\EnvironmentSpecificCustomConfig.AssemblyInfo.cs
+E:\Akki\POC\Final\EnvironmentSpecificCustomConfig\EnvironmentSpecificCustomConfig\obj\Debug\netcoreapp2.0\EnvironmentSpecificCustomConfig.dll
+E:\Akki\POC\Final\EnvironmentSpecificCustomConfig\EnvironmentSpecificCustomConfig\obj\Debug\netcoreapp2.0\EnvironmentSpecificCustomConfig.pdb

@@ -1,0 +1,6 @@
+{
+  "Configuration": {
+    "ConnectionString": "Server={stagingservername};Database={dbname};User ID={staginguserid};Password={stagingpassword};"
+  }
+}
+
